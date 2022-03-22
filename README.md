@@ -1,10 +1,12 @@
-# RabbitX is hiring!
+# PICKLE is hiring!
 
 ### Your assignment is
 
 - Write the multi functions todo list application using one of the specific javascript library.
 
-There are **10** points totals (+1 additional), you will need to complete **at least 7 points.**
+There are **10** points totals (+1 additional), you will need to complete **at least 7 points.** 
+
+Except, you are applying an internship ( we will not calculate a score for internship ).
 
 ### Example
 
@@ -26,8 +28,8 @@ More Info
 2. Use **_MobX_** as global state management (2 pts) and use the correct type of actions. (+1 pts)
 3. Complete the application with **_all functions_**. (4 pts)
 
-Invite guy.thitiwat@rabbitstale.com to the repository when you finish.
-(or thitiwat.thongbor@gmail.com, if email above is not exist.)
+Invite thitiwat.thongbor@gmail.com to the repository when you finish.
+(or email the repo url to guy.thitiwat@pickle.co.th use the Subject "APPLY FOR PICKLE THAILAND")
 
 #### Additional ( +1 pts )
 
