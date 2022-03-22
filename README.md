@@ -41,4 +41,4 @@ Invite thitiwat.thongbor@gmail.com to the repository when you finish.
 - If you're using React-Native
 
   - Upload .apk file to firebase app distribution.
-  - Invite guy.thitiwat@rabbitstale.com to android tester.
+  - Invite thitiwat.thongbor@gmail.com to android tester.
